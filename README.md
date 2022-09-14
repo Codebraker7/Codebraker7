@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Aggarwal</h1>
-<h3 align="center">Just another BTech student, hustling to find the right path! ;)</h3>
+<h3 align="center">Just another geek, building beautiful websites</h3>
 
 - 🔭 I’m currently working on **Javascript - Front end**
 
