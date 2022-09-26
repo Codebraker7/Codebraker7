@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **snehaagg@gmail.com**
+- 📫 How to reach me **snehaagg7304@gmail.com**
 
 - ⚡ Fun fact **I think I'm unique but don't know in which direction :)**
 
