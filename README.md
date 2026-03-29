@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Aggarwal</h1>
-<h3 align="center">Just another geek, building beautiful websites</h3>
-
-- 🔭 I’m currently working on **Javascript - Front end**
-
-- 🌱 I’m currently learning **DSA**
+<h3 align="center">Just another geek, trying to solve problems</h3>
 
 - 📫 How to reach me **snehaagg7304@gmail.com**
 
